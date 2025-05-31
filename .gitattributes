@@ -1,0 +1,4 @@
+*.java linguist-language=Java
+*.js linguist-vendored=true
+*.html linguist-vendored=true
+*.css linguist-vendored=true
